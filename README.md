@@ -30,10 +30,11 @@ This isn’t your ordinary repo — it’s a **showcase and index** of everythin
 
 | 🚀 Project | 🔎 Description |
 |-----------|----------------|
-| [GitHub Desktop App](https://github.com/ThDev2/fr](https://github.com/ThDev2/ThDev2/releases/tag/v1.0.1)) | Github Mobile app with complete feature, built using median code |
+[FreedomGDPS!!11](https://github.com/flessan/FrGDPS) | Geometry Dash Private Server with loose rules |
+| [GitHub Desktop App](https://github.com/flessan/ThDev2/releases/tag/v1.0.1)) | Github Mobile app with complete feature, built using median code |
 | [FreedomGDPS!!11 Website](https://fless.netlify.app/) | Stylish, mobile-friendly site with GDPS features and updates |
-| [GDPS Discord Bot](https://github.com/ThDev2/uploadsong-bot) | Feature-less Discord bot for GDPS community |
-| [FreedomUi for geode](https://github.com/ThDev2?tab=repositories&q=geode](https://github.com/ThDev2/FrGDPS/blob/main/packs%2FTaroh%20Di%20Awal%20Directory.zip)) | Mods for Geometry Dash using Geode engine with custom visuals (ui) |
+| [GDPS Discord Bot](https://github.com/flessan/uploadsong-bot) | Feature-less Discord bot for GDPS community |
+| [FreedomUi for geode](https://github.com/ThDev2?tab=repositories&q=geode](https://github.com/flessan/FrGDPS/blob/main/packs%2FTaroh%20Di%20Awal%20Directory.zip)) | Mods for Geometry Dash using Geode engine with custom visuals (ui) |
 
 ---
 
@@ -41,7 +42,7 @@ This isn’t your ordinary repo — it’s a **showcase and index** of everythin
 
 - **Languages**: PHP, JavaScript, HTML/CSS, etc
 - **Frameworks**: Supabase, Firebase, Netlify, Vercel
-- **Tools**: Termux, Railway, GitHub Desktop App
+- **Tools**: TrebEdit, QuickEdit+, CX File Explorer, Deepseek, GitHub Desktop App
 
 ---
 
